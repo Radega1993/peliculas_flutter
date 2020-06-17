@@ -63,6 +63,9 @@ Open with your text editor and run the app in a mobile emulator
 ![search](imgrepo/search.png)
 
 
+### La puedes encontrar en google play
+[Descargar](https://play.google.com/store/apps/details?id=radega.peliculadb)
+
 <!-- start contributing -->
 ## Contributing to <span id="project_title">peliculas_flutter</span>
 
