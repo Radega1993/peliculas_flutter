@@ -23,7 +23,7 @@ codefactor-badge: True
 <h1 align="center">This is <span id="project_title">peliculas_flutter</span> 👋</h1>
 <p>
 <a href="https://www.radega.com" id="homepage" rel="nofollow">
-<img align="right" height="128" id="icon" src="img/logo.svg" width="128"/>
+<img align="right" height="128" id="icon" src="imgrepo/logo.svg" width="128"/>
 </a>
 </p>
 <h2>peliculas_flutter</h2>
