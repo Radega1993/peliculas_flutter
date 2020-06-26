@@ -28,7 +28,7 @@ codefactor-badge: True
 </p>
 <h2>peliculas_flutter</h2>
 <p><span id="project_title">peliculas_flutter</span> is a mobile application to check films.
-This is part from the flutter course made by Fernando Herrera
+  using api [themoiedb](https://www.themoviedb.org/)
 </p>
 
 
