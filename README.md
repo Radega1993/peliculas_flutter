@@ -23,12 +23,12 @@ codefactor-badge: True
 <h1 align="center">This is <span id="project_title">peliculas_flutter</span> 👋</h1>
 <p>
 <a href="https://www.radega.com" id="homepage" rel="nofollow">
-<img align="right" height="128" id="icon" src="img/logo.svg" width="128"/>
+<img align="right" height="128" id="icon" src="imgrepo/logo.svg" width="128"/>
 </a>
 </p>
 <h2>peliculas_flutter</h2>
 <p><span id="project_title">peliculas_flutter</span> is a mobile application to check films.
-This is part from the flutter course made by Fernando Herrera
+  using api [themoiedb](https://www.themoviedb.org/)
 </p>
 
 
@@ -62,6 +62,9 @@ Open with your text editor and run the app in a mobile emulator
 ### Search
 ![search](imgrepo/search.png)
 
+
+### La puedes encontrar en google play
+[Descargar](https://play.google.com/store/apps/details?id=radega.peliculadb)
 
 <!-- start contributing -->
 ## Contributing to <span id="project_title">peliculas_flutter</span>
